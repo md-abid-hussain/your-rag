@@ -44,6 +44,7 @@ streamlit run main.py
 ## Run using Docker image
 
 The provided Docker image allows for containerized deployment.
+Docker image link: [DockerHub](https://hub.docker.com/r/mdabidhussain/your-rag)
 
 #### 1. Pull the Image:
 
@@ -63,7 +64,7 @@ This command will run the containerized app, exposing port 8501 on the host mach
 
 For a detailed walkthrough of the deployment process, check out this blog post where we used this exact application as a case study:
 
-[From Docker to Kubernetes: A Journey with Cyclops UI ]("https://dev.to/mdabidhussain/from-docker-to-kubernetes-a-journey-with-cyclops-ui-m9l")
+[From Docker to Kubernetes: A Journey with Cyclops UI](https://dev.to/mdabidhussain/from-docker-to-kubernetes-a-journey-with-cyclops-ui-m9l)
 
 This blog post provides step-by-step instructions, screenshots, and best practices for deploying your application using Cyclops UI.
 
