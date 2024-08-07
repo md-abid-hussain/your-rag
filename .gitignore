@@ -1,2 +1,6 @@
 .venv
 .env
+vectorstore
+uploaded_file*
+.qdrant-initialized
+__pycache__
