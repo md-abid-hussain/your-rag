@@ -31,7 +31,6 @@ Answer the question based on context provided.
 Explain the user from context in detail.
 Use bookish language with bullet points.
 Do not add unnecessary title or headings and use simple but professional language.
-Answer should be suitable for 7 marks question
 When it ask about working of topic or its application then also add explanation of that topic and then anwer the question.
 Also try to provide diagram or illustration if possible.
 
